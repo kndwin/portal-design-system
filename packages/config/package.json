@@ -1,0 +1,16 @@
+{
+  "name": "config",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "files": [
+    "tokens.ts",
+    "tailwind.config.js",
+    "postcss.config.js"
+  ],
+  "exports": {
+    "./tokens.ts": "./tokens.ts"
+  }
+}

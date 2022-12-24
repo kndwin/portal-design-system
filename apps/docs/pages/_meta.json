@@ -1,0 +1,10 @@
+{
+  "index": {
+    "title": "Getting started",
+    "theme": {
+      "toc": true
+    }
+  },
+  "design-tokens": "Design tokens",
+  "components": "Components"
+}
